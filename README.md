@@ -1,5 +1,7 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://joelkong.github.io/)
 <h1 align="center">Hi 👋, I'm Joel Kong</h1>
 <h3 align="center">A passionate full stack developer from Singapore, building projects that provide value to society.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelkong&label=Profile%20views&color=0e75b6&style=flat" alt="joelkong" /> </p>
 
