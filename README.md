@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelkong&label=Profile%20views&color=0e75b6&style=flat" alt="joelkong" /> </p>
 
-- 🔭 Check out my latest project! [SubiScrape](https://www.subiscrape.com/)
+- 🔭 Check out my latest project! [SgUniDorms](https://www.sgunidorms.com/)
 
 - 🌱 I’m currently learning **AI/ML**
 
