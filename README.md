@@ -7,8 +7,6 @@
 
 - 🔭 Check out my latest project! [SgUniDorms](https://www.sgunidorms.com/)
 
-- 🌱 I’m currently learning **AI/ML**
-
 - 👨‍💻 All of my projects are available at [https://joelkong.github.io/](https://joelkong.github.io/)
 
 - 💬 Ask me about **React, MERN**
