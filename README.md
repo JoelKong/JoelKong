@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://joelkong.com/](https://joelkong.com/)
 
-- 💬 Ask me about **React, MERN**
-
 - 📫 How to reach me **joelkong2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
