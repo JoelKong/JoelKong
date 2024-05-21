@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://joelkong.github.io/)
 <h1 align="center">Hi 👋, I'm Joel Kong</h1>
-<h3 align="center">A passionate full stack developer from Singapore, keen on gaining new knowledge every single day.</h3>
+<h3 align="center">A passionate full stack developer from Singapore, enthusiastic about continuously acquiring new knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelkong&label=Profile%20views&color=0e75b6&style=flat" alt="joelkong" /> </p>
@@ -8,6 +8,8 @@
 - 🔭 Check out my latest project! [SgUniDorms](https://www.sgunidorms.com/)
 
 - 👨‍💻 All of my projects are available at [https://joelkong.com/](https://joelkong.com/)
+
+- 📚 Currently studying up to take on the AWS Certified Developer - Associate exam
 
 - 📫 How to reach me **joelkong2001@gmail.com**
 
