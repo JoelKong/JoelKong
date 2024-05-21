@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://joelkong.com/](https://joelkong.com/)
 
-- 📚 Currently studying up to take on the AWS Certified Developer - Associate exam
+- 📚 Currently studying to prepare and take on the AWS Certified Developer - Associate exam
 
 - 📫 How to reach me **joelkong2001@gmail.com**
 
