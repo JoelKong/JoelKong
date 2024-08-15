@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelkong&label=Profile%20views&color=0e75b6&style=flat" alt="joelkong" /> </p>
 
-- 🔭 Check out my latest project! [SgUniDorms](https://www.sgunidorms.com/)
+- 🔭 Keen on learning more about AI technology and its capabilities
 
 - 👨‍💻 All of my projects are available at [https://joelkong.com/](https://joelkong.com/)
 
-- 📚 Currently studying to prepare and take on the AWS Certified Developer - Associate exam
+- 📚 Currently studying to prepare and take on the AWS Solutions Architect - Associate exam
 
 - 📫 How to reach me **joelkong2001@gmail.com**
 
