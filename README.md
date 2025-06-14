@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelkong&label=Profile%20views&color=0e75b6&style=flat" alt="joelkong" /> </p>
 
-- 🔭 Keen on learning more about AI technology and its capabilities
+- 🔭 Keen on learning more about different technology and its capabilities and passionate about architecting solutions for scalability
 
 - 👨‍💻 All of my projects are available at [https://joelkong.com/](https://joelkong.com/)
 
